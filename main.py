@@ -1,3 +1,4 @@
+import pandas as pd
 df = pd.read_csv("adult.data.csv")
 
 # How many of each race are represented in this dataset? This should be a Pandas series with race names as the index labels.

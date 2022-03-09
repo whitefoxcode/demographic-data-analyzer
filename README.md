@@ -1,6 +1,6 @@
 # demographic-data-analyzer
 
-Using python with pandas to analyze demographic data.
+Using python with pandas to analyze demographic data. This is one of "Data Analysis with Python Projects" from freecodecamp.org
 
 Dataset Source
 Dua, D. and Graff, C. (2019). UCI Machine Learning Repository. Irvine, CA: University of California, School of Information and Computer Science.
